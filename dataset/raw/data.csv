@@ -1,0 +1,151 @@
+image_path,label,class_id,split
+dataset/train/beaker/image_001.jpg,Beaker,0,train
+dataset/train/beaker/image_002.jpg,Beaker,0,train
+dataset/train/beaker/image_003.jpg,Beaker,0,train
+dataset/train/beaker/image_004.jpg,Beaker,0,train
+dataset/train/beaker/image_005.jpg,Beaker,0,train
+dataset/train/beaker/image_006.jpg,Beaker,0,train
+dataset/train/beaker/image_007.jpg,Beaker,0,train
+dataset/train/beaker/image_008.jpg,Beaker,0,train
+dataset/train/beaker/image_009.jpg,Beaker,0,train
+dataset/train/beaker/image_010.jpg,Beaker,0,train
+dataset/train/beaker/image_011.jpg,Beaker,0,train
+dataset/train/beaker/image_012.jpg,Beaker,0,train
+dataset/train/beaker/image_013.jpg,Beaker,0,train
+dataset/train/beaker/image_014.jpg,Beaker,0,train
+dataset/train/beaker/image_015.jpg,Beaker,0,train
+dataset/train/beaker/image_016.jpg,Beaker,0,train
+dataset/train/beaker/image_017.jpg,Beaker,0,train
+dataset/train/beaker/image_018.jpg,Beaker,0,train
+dataset/train/beaker/image_019.jpg,Beaker,0,train
+dataset/train/beaker/image_020.jpg,Beaker,0,train
+dataset/train/conical_flask/image_001.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_002.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_003.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_004.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_005.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_006.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_007.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_008.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_009.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_010.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_011.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_012.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_013.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_014.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_015.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_016.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_017.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_018.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_019.jpg,Conical Flask,1,train
+dataset/train/conical_flask/image_020.jpg,Conical Flask,1,train
+dataset/train/test_tube/image_001.jpg,Test Tube,2,train
+dataset/train/test_tube/image_002.jpg,Test Tube,2,train
+dataset/train/test_tube/image_003.jpg,Test Tube,2,train
+dataset/train/test_tube/image_004.jpg,Test Tube,2,train
+dataset/train/test_tube/image_005.jpg,Test Tube,2,train
+dataset/train/test_tube/image_006.jpg,Test Tube,2,train
+dataset/train/test_tube/image_007.jpg,Test Tube,2,train
+dataset/train/test_tube/image_008.jpg,Test Tube,2,train
+dataset/train/test_tube/image_009.jpg,Test Tube,2,train
+dataset/train/test_tube/image_010.jpg,Test Tube,2,train
+dataset/train/test_tube/image_011.jpg,Test Tube,2,train
+dataset/train/test_tube/image_012.jpg,Test Tube,2,train
+dataset/train/test_tube/image_013.jpg,Test Tube,2,train
+dataset/train/test_tube/image_014.jpg,Test Tube,2,train
+dataset/train/test_tube/image_015.jpg,Test Tube,2,train
+dataset/train/test_tube/image_016.jpg,Test Tube,2,train
+dataset/train/test_tube/image_017.jpg,Test Tube,2,train
+dataset/train/test_tube/image_018.jpg,Test Tube,2,train
+dataset/train/test_tube/image_019.jpg,Test Tube,2,train
+dataset/train/test_tube/image_020.jpg,Test Tube,2,train
+dataset/train/measuring_cylinder/image_001.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_002.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_003.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_004.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_005.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_006.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_007.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_008.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_009.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_010.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_011.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_012.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_013.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_014.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_015.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_016.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_017.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_018.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_019.jpg,Measuring Cylinder,3,train
+dataset/train/measuring_cylinder/image_020.jpg,Measuring Cylinder,3,train
+dataset/train/funnel/image_001.jpg,Funnel,4,train
+dataset/train/funnel/image_002.jpg,Funnel,4,train
+dataset/train/funnel/image_003.jpg,Funnel,4,train
+dataset/train/funnel/image_004.jpg,Funnel,4,train
+dataset/train/funnel/image_005.jpg,Funnel,4,train
+dataset/train/funnel/image_006.jpg,Funnel,4,train
+dataset/train/funnel/image_007.jpg,Funnel,4,train
+dataset/train/funnel/image_008.jpg,Funnel,4,train
+dataset/train/funnel/image_009.jpg,Funnel,4,train
+dataset/train/funnel/image_010.jpg,Funnel,4,train
+dataset/train/funnel/image_011.jpg,Funnel,4,train
+dataset/train/funnel/image_012.jpg,Funnel,4,train
+dataset/train/funnel/image_013.jpg,Funnel,4,train
+dataset/train/funnel/image_014.jpg,Funnel,4,train
+dataset/train/funnel/image_015.jpg,Funnel,4,train
+dataset/train/funnel/image_016.jpg,Funnel,4,train
+dataset/train/funnel/image_017.jpg,Funnel,4,train
+dataset/train/funnel/image_018.jpg,Funnel,4,train
+dataset/train/funnel/image_019.jpg,Funnel,4,train
+dataset/train/funnel/image_020.jpg,Funnel,4,train
+dataset/validation/beaker/image_001.jpg,Beaker,0,validation
+dataset/validation/beaker/image_002.jpg,Beaker,0,validation
+dataset/validation/beaker/image_003.jpg,Beaker,0,validation
+dataset/validation/beaker/image_004.jpg,Beaker,0,validation
+dataset/validation/beaker/image_005.jpg,Beaker,0,validation
+dataset/validation/conical_flask/image_001.jpg,Conical Flask,1,validation
+dataset/validation/conical_flask/image_002.jpg,Conical Flask,1,validation
+dataset/validation/conical_flask/image_003.jpg,Conical Flask,1,validation
+dataset/validation/conical_flask/image_004.jpg,Conical Flask,1,validation
+dataset/validation/conical_flask/image_005.jpg,Conical Flask,1,validation
+dataset/validation/test_tube/image_001.jpg,Test Tube,2,validation
+dataset/validation/test_tube/image_002.jpg,Test Tube,2,validation
+dataset/validation/test_tube/image_003.jpg,Test Tube,2,validation
+dataset/validation/test_tube/image_004.jpg,Test Tube,2,validation
+dataset/validation/test_tube/image_005.jpg,Test Tube,2,validation
+dataset/validation/measuring_cylinder/image_001.jpg,Measuring Cylinder,3,validation
+dataset/validation/measuring_cylinder/image_002.jpg,Measuring Cylinder,3,validation
+dataset/validation/measuring_cylinder/image_003.jpg,Measuring Cylinder,3,validation
+dataset/validation/measuring_cylinder/image_004.jpg,Measuring Cylinder,3,validation
+dataset/validation/measuring_cylinder/image_005.jpg,Measuring Cylinder,3,validation
+dataset/validation/funnel/image_001.jpg,Funnel,4,validation
+dataset/validation/funnel/image_002.jpg,Funnel,4,validation
+dataset/validation/funnel/image_003.jpg,Funnel,4,validation
+dataset/validation/funnel/image_004.jpg,Funnel,4,validation
+dataset/validation/funnel/image_005.jpg,Funnel,4,validation
+dataset/test/beaker/image_001.jpg,Beaker,0,test
+dataset/test/beaker/image_002.jpg,Beaker,0,test
+dataset/test/beaker/image_003.jpg,Beaker,0,test
+dataset/test/beaker/image_004.jpg,Beaker,0,test
+dataset/test/beaker/image_005.jpg,Beaker,0,test
+dataset/test/conical_flask/image_001.jpg,Conical Flask,1,test
+dataset/test/conical_flask/image_002.jpg,Conical Flask,1,test
+dataset/test/conical_flask/image_003.jpg,Conical Flask,1,test
+dataset/test/conical_flask/image_004.jpg,Conical Flask,1,test
+dataset/test/conical_flask/image_005.jpg,Conical Flask,1,test
+dataset/test/test_tube/image_001.jpg,Test Tube,2,test
+dataset/test/test_tube/image_002.jpg,Test Tube,2,test
+dataset/test/test_tube/image_003.jpg,Test Tube,2,test
+dataset/test/test_tube/image_004.jpg,Test Tube,2,test
+dataset/test/test_tube/image_005.jpg,Test Tube,2,test
+dataset/test/measuring_cylinder/image_001.jpg,Measuring Cylinder,3,test
+dataset/test/measuring_cylinder/image_002.jpg,Measuring Cylinder,3,test
+dataset/test/measuring_cylinder/image_003.jpg,Measuring Cylinder,3,test
+dataset/test/measuring_cylinder/image_004.jpg,Measuring Cylinder,3,test
+dataset/test/measuring_cylinder/image_005.jpg,Measuring Cylinder,3,test
+dataset/test/funnel/image_001.jpg,Funnel,4,test
+dataset/test/funnel/image_002.jpg,Funnel,4,test
+dataset/test/funnel/image_003.jpg,Funnel,4,test
+dataset/test/funnel/image_004.jpg,Funnel,4,test
+dataset/test/funnel/image_005.jpg,Funnel,4,test
