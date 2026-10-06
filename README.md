@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratory Equipment Image Classification using Transfer Learning
 
 ## Project objective
@@ -182,3 +183,6 @@ The `.gitignore` already excludes these.
 ## Suggested project title
 
 **Laboratory Equipment Image Classification using Transfer Learning with MobileNetV2**
+=======
+# lab-equipment-classification
+>>>>>>> 82f55327edcc81708f61938db4a864ea5eec9cb9
